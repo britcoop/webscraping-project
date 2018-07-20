@@ -1,6 +1,6 @@
 # webscraping-project
 
-Webscraping practice with [nightmare.js](https://github.com/segmentio/nightmare)! This program scrapes an html data table and exports to a csv file.
+Webscraping practice with [nightmare.js](https://github.com/segmentio/nightmare)! This program scrapes an html data table and exports it to a csv file.
 
 
 ## Prerequisites
